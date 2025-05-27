@@ -1,4 +1,4 @@
-# 📅 Custom Event Calendar  
+#  Custom Event Calendar  
 A **responsive**, **drag-and-drop-enabled** event calendar built using **React**, **Tailwind CSS**, and **React Beautiful DnD**. This app allows users to dynamically create, manage, and organize events.
 
 ---
@@ -51,7 +51,7 @@ npm run dev
 ```
 
 Open your browser and navigate to:  
-👉 [http://localhost:5173](http://localhost:5173)
+ [http://localhost:5173](http://localhost:5173)
 
 
 
